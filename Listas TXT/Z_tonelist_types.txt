@@ -1,0 +1,242 @@
+-----PIANO-----
+A11 01 Piano 1
+A11¹ Piano1w
+A11² Piano1d
+A12 02 Piano 2
+A12¹ Piano2w
+A13 03 Piano 3
+A13¹ Piano 3w
+A14 04 HonkTonk
+A14¹ HonkTnkw
+A15 05 E.Piano1
+A15¹ DetunEP1
+A15² EPiano1v
+A15³ 60’Piano
+A16 06 E.Piano2
+A16¹ DetunEP2
+A16² EPiano2v
+A17 07 Harpsi
+A17¹ CouplHps
+A17² Harpsi.w
+A17³ Harpsi.o
+A18 08 Clav.
+---CHROM. PERC.---
+A21 09 Celesta
+A22 10 Glocken
+A23 11 MusicBox
+A24 12 Vib
+A24¹   Vib.w
+A25 13 Marimba
+A25¹ MarimbaW
+A26 14 Xylophon
+A27 15 Tub-bell
+A27¹ ChurcBel
+A27² Carillon
+A28 16 Santur
+-----ORGAN-----
+A31 17 Organ 1
+A31¹ DetunOr1
+A31² 60’sOrg1
+A31³ Organ 4
+A32 18 Organ 2
+A32¹ DetunOr2
+A32² Organ 5
+A33 19 Organ 3
+A34 20 Church1
+A34¹ Church2
+A34² Church3
+A35 21 Reed Org
+A36 22 AccordFr
+A36¹ AccordIt
+A37 23 Harmonic
+A38 24 Bandneon
+----GUITAR----
+A41 25 NylonGtr
+A41¹ Ukulele
+A41² NylonGto
+A41³ NylonGt2
+A42 26 StStrGt
+A42¹ 12-strGt
+A42² Mandolin
+A43 27 Jazz Gtr
+A43¹ HawaiGt
+A44 28 CleanGtr
+A44¹ ChorusGt
+A45 29 MutedGtr
+A45¹ FunkGtr
+A45² FunkGtr2
+A46 30 OvdrvGt1
+A47 31 DstortG1
+A47¹ FeedbGtr
+A48 32 GtrHarmo
+A48¹ GtrFeedb
+-----BASS-----
+A51 33 AcouBass
+A52 34 FingBass
+A53 35 PickBass
+A54 36 Fretless
+A55 37 Slap Bs1
+A56 38 Slap Bs2
+A57 39 SynthBs1
+A57¹ SyBas101
+A57² SyBass 3
+A58 40 SynthBs2
+A58¹ SyBass 4
+A58² RubrBass
+---ORCHESTRA---
+A61 41 Violin
+A61¹ SlViolin
+A62 42 Viola
+A63 43 Cello
+A64 44 Contrabs
+A65 45 TremoStr
+A66 46 Pizzicat
+A67 47 Harp
+A68 48 Timpani
+----ENSEMBLE----
+A71 49 Strings
+A71¹ Orchestr
+A72 50 SlowStr
+A73 51 Syn Str1
+A73¹ SyStrng3
+A74 52 Syn.Str2
+A75 53 ChoirAah
+A75¹ ChoirAh2
+A76 54 VoiceOoh
+A77 55 SynVox
+A78 56 Orch Hit
+-----BRASS-----
+A81 57 Trumpet
+A82 58 Trombone
+A82¹ Trombne2
+A83 59 Tuba
+A84 60 MutedTp
+A85 61 Fr Horn
+A85¹ FrHorn2
+A86 62 Brass 1
+A86¹ Brass 2
+A87 63 SyBrass1
+A87¹ SyBrass3
+A87² AnBrass1
+A88 64 SyBrass2
+A88¹ SyBrass4
+A88² AnBrass2
+-----REED-----
+B11 65 SoprSax
+B12 66 Alto Sax
+B13 67 TenorSax
+B14 68 BaritSax
+B15 69 Oboe
+B16 70 EnglHorn
+B17 71 Bassoon
+B18 72 Clarinet
+-----PIPE-----
+B21 73 Piccolo
+B22 74 Flute
+B23 75 Recorder
+B24 76 PanFlute
+B25 77 BotBlow
+B26 78 Shakuhac
+B27 79 Whistle
+B28 80 Ocarina
+---SYNTH LEAD---
+B31 81 Square W
+B31¹ Square
+B31² SineWave
+B32  Saw Wave
+B32¹ Saw
+B32² DoctSolo
+B33 83 SynCall
+B34 84 ChifferL
+B35 85 Charang
+B36 86 Solo Vox
+B37 87 5th SawW
+B38 88 Bas&Lead
+---SYNTH PAD---
+B41 89 Fantasia
+B42 90 Warm Pad
+B43 91 Polysynt
+B44 92 SpVoice
+B45 93 BowGlass
+B46 94 MetalPad
+B47 95 Halo Pad
+B48 96 SweepPad
+---SYNTH SFX---
+B51 97 Ice Rain
+B52 98 Soundtrk
+B53 99 Crystal
+B53¹ SyMallet
+B54 100 Atmosph
+B55 101 Brightns
+B56 102 Goblin
+B57 103 EchoDrop
+B57¹ EchoBell
+B57² Echo Pan
+B58 104 StarThem
+--ETHNIC MISC--
+B61 105 Sitar
+B61¹ Sitar 2
+B62 106 Banjo
+B63 107 Shamisen
+B64 108 Koto
+B64¹ TKoto
+B65 109 Kalimba
+B66 110 Bag Pipe
+B67 111 Fiddle
+B68 112 Shanai
+---PERCUSSIVE---
+B71 113 TinkBell
+B72 114 Agogo
+B73 115 SteelDrm
+B74 116 Woodblck
+B74¹ Castanet
+B75 117 Taiko
+B75¹ ConcrtBD
+B76 118 MeloTom1
+B76¹ MeloTom2
+B77 119 SynthDrm
+B77¹ 808 Tom
+B77² ElecPerc
+B78 120 RevrsCym
+------SFX------
+B81 121 GFrtNois
+B81¹ GtCNoise
+B81² StrSlap
+B82 122 BrtNoise
+B82¹ FlKClick
+B83 123 Seashore
+B83¹ Rain
+B83² Thunder
+B83³ Wind
+B834 Stream
+B835 Bubble
+B84 124 Bird
+B84¹ Dog
+B84²2 HorseGlp
+B84³ Bird 2
+B85 125 Telephn1
+B85¹ Telephn2
+B85² DCreakng
+B85³ Door
+B854 Scratch
+B855 Windchim
+B86 126 Helicptr
+B86¹ CarEngin
+B86² Car Stop
+B86³ Car Pass
+B864 CarCrash
+B865 Siren
+B866 Train
+B867 Jetplane
+B868 Starship
+B869 BrstNois
+B87 127 Applause
+B87¹ Laughing
+B87² Screamin
+B87³ Punch
+B874 Heart
+B875 Footstep
+B88   Gun Shot
+B88¹ MachGun
+B88² Lasergun
+B88³ Explsion

@@ -1,0 +1,9 @@
+PC01 01  Standard
+PC09 02  Room
+PC17 03  Power
+PC25 04  Electron
+PC26 04¹ TR-808
+PC33 05  Jazz
+PC41 06  Brush
+PC49 07  Orchestra
+PC57 08  SFX

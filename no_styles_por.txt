@@ -1,0 +1,13 @@
+Este programa foi desenvolvido primeiramente para uso pessoal, que, no meu caso era pra usar o teclado em Shows e Eventos, e nestes casos eu não usava os recursos de Styles presentes no teclado pois tocava com banda.
+
+Como o teclado é um arranjador, ele não é o tipo mais indicado para esse tipo de formação, porém com o tempo fui aprendendo a utilizar as mesmas funções que este programa que fiz modificam de uma forma muito completa e funcional de modo que eu consegui grandes resultados com a correta e cuidadosa configuração do teclado EM-25.
+
+Com isso, esta presente versão do programa não contem as configurações de estilos, primeiramente, como supracitado, simplesmente porque eu não às utilizo, e em segundo lugar, o trabalho e tempo que dediquei para conseguir obter as informações internas do arquivo ".UP0" gerado pelo teclado, só para estas configurações foram muito grandes (sem querer, acabei até descobrindo algumas configurações para os estilos também, mas não todas),portanto parei de trabalhar no escaneamento de bytes internos assim que obtive as informações das quais eu necessitava.
+
+Apesar disso, se alguém estiver interessado em uma versão completa, posso voltar a trabalhar no projeto, mas como disse, isso me toma tempo e trabalho por tanto eu negociaria algum valor, mesmo que não muito grande, como incentivo e referente à todas as tarefas pendentes: o termino do escaneamento, reconfiguração da tela do programa, reprogramação de todas as funções coletivas e análise do impacto das alterações no arquivo final, são alguns dos passos que eu teria que fazer para atualizar o programa de acordo com as novas configurações inseridas por conta dos Styles.
+
+Uma última observação:
+Se estas configurações já lhe adiantam o serviço durante a programação do seu EM-25, recomendo que antes faça a configuração e crie o arquivo através do programa, e depois, as configurações adicionais, que poderiam ser a de Styles por exemplo, sejam feitas pelo teclado, nesta ordem. Pois, durante o escaneamento dos bytes do arquivo gerado pelo teclado, vi que alguns são influenciados por configurações de Styles, portanto a configuração na ordem inversa pode acarretar na perca de configurações feitas anteriomente no teclado, como por exemplo a configuração na qual se ativa os Uppers 1 e 2, junto com a ativação de partes do Acompanhamento.
+
+
+_Henrique L. Vilela, tecladista e programador.
