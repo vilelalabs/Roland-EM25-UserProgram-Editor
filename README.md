@@ -22,5 +22,7 @@ PS: And yes, this project was a kind of "reverse engineering" of files created b
 
 ![image](https://static.roland.com/assets/images/products/main/em_25_main.jpg)
 
+-Unit1.cpp will have most of the logic in this program.
+
 
 
